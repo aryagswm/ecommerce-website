@@ -8,7 +8,7 @@ and description on whose basis the customers can make choices. Any customer can
 select the vehicle of their choice and make the payment if they have finalized which
 vehicle they are taking.
 
-#Abstract 
+Abstract 
 
 • Manage rental services and coordinates all related activities, to maximize the
   benefits of the ease of renting vehicles.
